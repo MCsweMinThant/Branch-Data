@@ -1,7 +1,7 @@
 [
  {
   "region": "Region (2)",
-  "town ship": "Bago ",
+  "township": "Bago ",
   "office phone": "9977835728",
   "phone1": "0",
   "phone2": "0",
@@ -14,7 +14,7 @@
  },
  {
   "region": "Region (2)",
-  "town ship": "KyoehPin Kyauk",
+  "township": "KyoehPin Kyauk",
   "office phone": "9949044405",
   "phone1": "9941655501",
   "phone2": "0",
@@ -27,7 +27,7 @@
  },
  {
   "region": "Region (2)",
-  "town ship": "TharYarWaddy",
+  "township": "TharYarWaddy",
   "office phone": "9977835865",
   "phone1": "0",
   "phone2": "0",
@@ -40,7 +40,7 @@
  },
  {
   "region": "Region (2)",
-  "town ship": "Nyaung LayPin",
+  "township": "Nyaung LayPin",
   "office phone": "9977835211",
   "phone1": "0",
   "phone2": "0",
@@ -53,7 +53,7 @@
  },
  {
   "region": "Region (2)",
-  "town ship": "Pathein",
+  "township": "Pathein",
   "office phone": "9977835727",
   "phone1": "0",
   "phone2": "0",
@@ -66,7 +66,7 @@
  },
  {
   "region": "Region (2)",
-  "town ship": "Hinthada",
+  "township": "Hinthada",
   "office phone": "9977835605",
   "phone1": "0",
   "phone2": "0",
@@ -79,7 +79,7 @@
  },
  {
   "region": "Region (2)",
-  "town ship": "Mubin",
+  "township": "Mubin",
   "office phone": "9946208782",
   "phone1": "0",
   "phone2": "0",
@@ -92,7 +92,7 @@
  },
  {
   "region": "Region (2)",
-  "town ship": "ThanTwel",
+  "township": "ThanTwel",
   "office phone": "9977835873",
   "phone1": "0",
   "phone2": "0",
@@ -105,7 +105,7 @@
   },
  {
   "region": "Region (2)",
-  "town ship": "Sittwe",
+  "township": "Sittwe",
   "office phone": "9977835508",
   "phone1": "0",
   "phone2": "0",
@@ -118,7 +118,7 @@
  },
  {
   "region": "Region (2)",
-  "town ship": "Kyauk Phyu",
+  "township": "Kyauk Phyu",
   "office phone": "9942880673",
   "phone1": "9972840648",
   "phone2": "0",
@@ -129,4 +129,4 @@
   "notes": "ဇင်ချောင်း / စနဲ ဘက်ဆိုလျှင် ကားဂိတ်ချပေးပါသည်။"
   "available": "-"
  }
-]
+  ]
